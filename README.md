@@ -5,4 +5,4 @@
 - Analyzed detection rate of each crime category to help the police department in better allocating resources
 
 ## Note
-- **PLEASE OPEN THE PROJECT IN SPARK ENVIRONEMTN**
+- **PLEASE OPEN THE PROJECT IN SPARK ENVIRONEMTNT**
