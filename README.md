@@ -8,4 +8,5 @@
 - **PLEASE OPEN THE PROJECT IN SPARK ENVIRONEMTNT**
 - The *San Francisco Crime Data Analysis and Modeling (Spark, Python, SQL).html* file can be imported to Databricks to run.
 - In *San Francisco Crime Data Analysis and Modeling (Spark, Python, SQL).html* file, there are two map visualization figure in Part II can't be displayed by html file type. *Interactive map* and *Choropleth map* are that two missing figures.
-- The link for *[San Francisco Crime Data Analysis and Modeling (Spark, Python, SQL).html](file:///Users/souyixin/Documents/GitHub/San-Francisco-Crime-Data-Analysis-and-Modeling--Spark--Python--SQL-/San%20Francisco%20Crime%20Data%20Analysis%20and%20Modeling%20(Spark,%20Python,%20SQL).html)* file
+- The link for *[San Francisco Crime Data Analysis and Modeling (Spark, Python, SQL).html](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2380371066905300/4283440112626099/5557569986804847/latest.html)* file
+- You can view the code in *San Francisco Crime Data Analysis and Modeling (Spark, Python, SQL).ipynb* file, but some of the visualization can not be displayed in the file.
